@@ -145,6 +145,9 @@ static-faq:
         These can be edited at any time, as long as your party isn't started.<br><br>
         It is not possible to automatically reuse last-year's Secret Santa list and prevent these combinations, as we currently don't see a way to add this without confusing people, sorry.</p>
 
+        <a name="odd"></a><h2>Does it work with an odd number of participants?</h2>
+        <p>Yes. It doesn't matter if your party consists of an even or an odd number of participants.</p>
+
         <a name="wishlist"></a><h2>Can I provide a wishlist?</h2>
         <p>Participants receive a link to a webpage where they will discover their secret buddy. They can add their own wishlist and see their buddy's wishlist on that page.</p>
 
